@@ -1,0 +1,55 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": [
+        {
+            "emp_id": 1,
+            "username": "junite",
+            "password": "tsukiden+",
+        },
+        {
+            "emp_id": 2,
+            "username": "gramirez",
+            "password": "tsukiden+",
+        },
+        {
+            "emp_id": 3,
+            "username": "cgulmatico",
+            "password": "tsukiden+",
+        },
+        {
+            "emp_id": 4,
+            "username": "mdaya",
+            "password": "tsukiden+",
+        },
+        {
+            "emp_id": 5,
+            "username": "jaquino",
+            "password": "tsukiden+",
+        },
+    ]
+}
